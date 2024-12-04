@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.seleniumtest.tests.ExecutionTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.082 s -- in com.seleniumtest.tests.ExecutionTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.694 s -- in com.seleniumtest.tests.ExecutionTest
