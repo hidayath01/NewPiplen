@@ -19,7 +19,9 @@
     <scope>test</scope>
 </dependency>
 </dependencies>
-<build>
+	
+	<build>
+		<finalName>selenium-test</finalName>
         <plugins>
             <!-- Plugin to create a JAR -->
             <plugin>
